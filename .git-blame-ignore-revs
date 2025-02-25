@@ -16,7 +16,7 @@
 # Guidelines:
 # - Only large automated refactorings are expected to be included in this file.
 #   Do not add new revision just because it feels unimportant
-# - When adding sinle revision use inline comment to link relevant issue/MR
+# - When adding single revision use inline comment to link relevant issue/MR
 #   Example:
 ##   d4a8b7307acc2dc8a8833ccfa65426ad28b3ffc9 # https://gitlab.com/gitlab-org/frontend/rfcs/-/issues/60
 # - When adding multiple revisions precede each addition (this could be multiple revisions) with a link to
